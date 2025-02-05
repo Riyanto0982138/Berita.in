@@ -4,10 +4,14 @@ Nama Aplikasi : `Berita.in`
 
 Anggota Kelompok :
 `- Muhamad fazri muchlisin	17221037
-``- Nuriawan dwi utama		17224005
-``- Ajisurya ariyana		17221032
-``- Yudi ismail			17223019
-``- Riyanto			17221015
+`
+`- Nuriawan dwi utama		17224005
+`
+`- Ajisurya ariyana		17221032
+`
+`- Yudi ismail			17223019
+`
+`- Riyanto			17221015
 `
 (tidak ada ketua, karena semua kompak mengerjakan)
 

@@ -14,6 +14,7 @@ Membangun Aplikasi Berita.in
 
 `Pendahuluan`
 
+
 Dalam era digital saat ini, kebutuhan akan informasi yang cepat dan akurat semakin meningkat.
 Masyarakat mengandalkan berbagai flatform berita untuk mendapatkan informasi terkini, baik mengenai teknologi, hiburan, maupun informasi olahraga dan masih banyak informasi lainnya yang up to date
 Untuk menjawab tantangan ini, di kembangkanlah Berita.in, sebuah aplikasi berita berbasis mobile yang di bangun menggunakan React Native. Aplikasi ini di rancang untuk memberikan pengalaman membaca berita yang lebih cepat, mudah di pahami, dan nyaman untuk di gunakan. Dengan pendekatan teknologi yang efisien, Berita.in menawarkan fitur-fitur unggulan seperti berita terbaru, pencarian cepat, dan antarmuka pengguna yang intuitif.
@@ -21,6 +22,7 @@ Artikel ini akan membahas bagaimana React Native digunakan dalam pengembangan Be
 
 `TUJUAN PENGEMBANGAN APLIKASI
 `
+
 Tujuan Utama pengembangan Berita.in adalah untuk memberikan akses berita yang cepat dan mudah diakses oleh pengguna. Beberapa tujuan spesifik dari aplikasi ini meliputi:
 •	Menyediakan berita terbaru secara real-time dari berbagai sumber terpercaya
 •	Menghadirkan pengalaman membaca yang nyaman melalu desain yang bersih dan ramah pengguna
@@ -29,6 +31,7 @@ Tujuan Utama pengembangan Berita.in adalah untuk memberikan akses berita yang ce
 
 `TEKNOLOGI YANG DIGUNAKAN
 `
+
 Berita.in dikembangkan menggunakan React Native sebuah library Java Script yang populer untuk membangun antarmuka pengguna yang dinamis dan responsif. Teknologi lain yang mendukung aplikasi ini antara lain 
 •	React Native: Untuk memastikan aplikasi dapat berjalan di berbagai platform mobile seperti android. 
 •	News Api: Untuk mengambil berita dari berbagai sumber terpercaya secara real-time dan up to date
@@ -39,6 +42,7 @@ KEUNGGULAN BERITA.IN DIBANDINGKAN KOMPETITOR
 
 `PROSES PENGEMBANGAN '
 `
+
 1.	Peracangan UI/UX 
 Nuriawan, Fazri, dan Yudi memulai dengan melakukan riset terhadap aplikasi berita yang sudah ada. Dari hasil riset tersebut, mereka merancang wireframe dan prototype menggunakan figma. Fokus utama dalam perancangan ini adalah kemudahan navigasi, tampilan yang bersih, serta pengalaman membaca yang nyaman bagi pengguna.
 
@@ -56,6 +60,7 @@ Setelah tahapan pengembangan selesai, tim melakukan pengujian menyeluruh untuk m
 
 `TANTANGAN DALAM PENGEMBANGAN
 `
+
 Dalam tahapan pengembangan aplikasi ini kita mendapatkan kendala sebagai berikut
 1.	Device: Membutuhkan device yang sangat memungkinan untuk aplikasi ini untuk mengakses android studio dan react native nya 
 2.	Desain: Sulit menyesuaikan kodingan dengan tampilan desain yang berada di UI/UX
@@ -63,6 +68,7 @@ Dalam tahapan pengembangan aplikasi ini kita mendapatkan kendala sebagai berikut
 
 `ALUR PENGGUNAKAN DALAM APLIKASI
 `
+
 1.	Pengguna membukan aplikasi dan terlihat langsung logo aplikasi berita.in yang telah di buat oleh team 
 2.	Setelah itu penggunakan di alihkan menuju tampilan masuk, yang Dimana jika pengguna belum mempunyai akun ada fitur daftar di bawah fitur masuk
 3.	Setelah pengguna mengisi data sesuai arahan aplikasi pengguna di haruskan menggunakan @gmail atau @yahoo dalam pengisian data username untuk password pengguna di arahkan mengisi password minimal 8 karakter di dalam password tersebut
@@ -77,6 +83,7 @@ Dalam tahapan pengembangan aplikasi ini kita mendapatkan kendala sebagai berikut
 
 `KESIMPULAN
 `
+
 Aplikasi Berita.in hadir sebagai solusi inovatif dalam memenuhi kebutuhan masyarakat akan informasi yang cepat, akurat, dan mudah diakses. Dengan memanfaatkan teknologi React Native dan integrasi News API, aplikasi ini mampu memberikan pengalaman membaca berita yang responsif dan user-friendly. Fitur-fitur unggulan seperti pencarian cepat, dan antarmuka intuitif menjadi nilai tambah yang membedakan Berita.in dari kompetitor lainnya.
 Proses pengembangan aplikasi ini melibatkan riset mendalam, perancangan UI/UX yang fokus pada kenyamanan pengguna, serta pengujian menyeluruh untuk memastikan performa yang optimal. Meski menghadapi tantangan seperti keterbatasan perangkat, penyesuaian desain, dan pengembangan fitur berbasis AI, tim pengembang berhasil mengatasi hambatan tersebut dengan baik.
 Dengan berbagai keunggulan yang ditawarkan, Berita.in diharapkan dapat menjadi platform berita terpercaya yang tidak hanya informatif, tetapi juga memberikan pengalaman pengguna yang menyenangkan. Ke depannya, aplikasi ini memiliki potensi besar untuk terus berkembang dengan penambahan fitur-fitur inovatif yang semakin mempermudah akses informasi bagi masyarakat luas.

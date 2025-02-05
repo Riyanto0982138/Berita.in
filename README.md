@@ -1,6 +1,8 @@
 ![Logo](https://github.com/user-attachments/assets/2189710d-cf55-4a04-8c04-8ea34d2834a6)
 
-Nama Kelompok :
+Nama Aplikasi : `Berita.in`
+
+Anggota Kelompok :
 - Muhamad fazri muchlisin	17221037
 - Nuriawan dwi utama		17224005
 - Ajisurya ariyana		17221032

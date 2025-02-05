@@ -42,7 +42,9 @@ Tujuan Utama pengembangan Berita.in adalah untuk memberikan akses berita yang ce
 Berita.in dikembangkan menggunakan React Native sebuah library Java Script yang populer untuk membangun antarmuka pengguna yang dinamis dan responsif. Teknologi lain yang mendukung aplikasi ini antara lain 
 •	React Native: Untuk memastikan aplikasi dapat berjalan di berbagai platform mobile seperti android. 
 •	News Api: Untuk mengambil berita dari berbagai sumber terpercaya secara real-time dan up to date
-KEUNGGULAN BERITA.IN DIBANDINGKAN KOMPETITOR
+
+`KEUNGGULAN BERITA.IN DIBANDINGKAN KOMPETITOR
+`
 •	Akses Cepat ke berita: Menggunakan API yang dioptimalkan untuk mempercepat pengambilan berita.
 •	Antarmuka intuitif: Desain yang user-friendly memudahkan pengguna menavigasi berita.
 •	Kustomisasi Berita: Pengguna dapat memilih kategori berita favorite mereka.

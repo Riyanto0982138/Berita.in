@@ -3,11 +3,16 @@
 Nama Aplikasi : `Berita.in`
 
 Anggota Kelompok :
-- `Muhamad fazri muchlisin	17221037`
-- `Nuriawan dwi utama		17224005`
-- `Ajisurya ariyana		17221032`
-- `Yudi ismail			17223019`
-- `Riyanto			17221015`
+- `Muhamad fazri muchlisin	17221037`![Fazri](https://github.com/user-attachments/assets/b3d8294a-034a-45d4-8d8a-dc8355a62531)
+
+- `Nuriawan dwi utama		17224005`![Nuriawan](https://github.com/user-attachments/assets/6277d20c-523e-4333-83f0-a2361f410390)
+
+- `Ajisurya ariyana		17221032`![Aji](https://github.com/user-attachments/assets/ba485ab9-6363-417b-8496-72080ee12e18)
+
+- `Yudi ismail			17223019`![Iduy](https://github.com/user-attachments/assets/a9a6f1e9-5a82-4566-aea3-86fd7db874ca)
+
+- `Riyanto			17221015`![Riyan](https://github.com/user-attachments/assets/6b1495a2-81ca-4663-b6aa-1f1f6f45c980)
+
 
 (tidak ada ketua, karena semua kompak mengerjakan)
 

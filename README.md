@@ -8,9 +8,9 @@ Nama Kelompok:
 - Riyanto			17221015
 
 
-`Membangun Aplikasi Berita.in'
+Membangun Aplikasi Berita.in
 
-`Pendahuluan`
+Pendahuluan
 
 Dalam era digital saat ini, kebutuhan akan informasi yang cepat dan akurat semakin meningkat.
 Masyarakat mengandalkan berbagai flatform berita untuk mendapatkan informasi terkini, baik mengenai teknologi, hiburan, maupun informasi olahraga dan masih banyak informasi lainnya yang up to date

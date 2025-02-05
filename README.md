@@ -31,22 +31,31 @@ Artikel ini akan membahas bagaimana React Native digunakan dalam pengembangan Be
 `
 
 Tujuan Utama pengembangan Berita.in adalah untuk memberikan akses berita yang cepat dan mudah diakses oleh pengguna. Beberapa tujuan spesifik dari aplikasi ini meliputi:
+
 •	Menyediakan berita terbaru secara real-time dari berbagai sumber terpercaya
+
 •	Menghadirkan pengalaman membaca yang nyaman melalu desain yang bersih dan ramah pengguna
+
 •	Mempermudah pengguna dalam menemukan berita yang relevan dengan fitur pencarian dan kategori berita.
+
 •	Memanfaatkan teknologi terkini untuk menghadirkan peforma aplikasi yang ringan dan responsif
 
 `TEKNOLOGI YANG DIGUNAKAN
 `
 
 Berita.in dikembangkan menggunakan React Native sebuah library Java Script yang populer untuk membangun antarmuka pengguna yang dinamis dan responsif. Teknologi lain yang mendukung aplikasi ini antara lain 
+
 •	React Native: Untuk memastikan aplikasi dapat berjalan di berbagai platform mobile seperti android. 
+
 •	News Api: Untuk mengambil berita dari berbagai sumber terpercaya secara real-time dan up to date
 
 `KEUNGGULAN BERITA.IN DIBANDINGKAN KOMPETITOR
 `
+
 •	Akses Cepat ke berita: Menggunakan API yang dioptimalkan untuk mempercepat pengambilan berita.
+
 •	Antarmuka intuitif: Desain yang user-friendly memudahkan pengguna menavigasi berita.
+
 •	Kustomisasi Berita: Pengguna dapat memilih kategori berita favorite mereka.
 
 `PROSES PENGEMBANGAN '

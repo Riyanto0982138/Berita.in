@@ -80,6 +80,7 @@ ALUR PENGGUNAKAN DALAM APLIKASI
 9.	Setelah itu dalam menu profile pengguna dapat melihat logo aplikasi dan fitur about me yang dimana Ketika pengguna klik fitur about me akan muncul nama dan foto pembuat aplikasi berita.in 
 10.	Ketika klik salah satu pembuat aplikasi dapat langsung terlihat menu pop up tentang identitas lengkap dari pembuat aplikasi yang telah di klik 
 11.	Dan di dalam menu profile ada menu logout dimana, menu logout ini berfungsi untuk keluar dari akun pengguna, dan pada saat di klik (“Anda telah keluar dari akun”), pada saat klik ok dalam pop up nya tampilan akan otomatis beralih kedalam tampilan login kembali.
+
 KESIMPULAN
 Aplikasi Berita.in hadir sebagai solusi inovatif dalam memenuhi kebutuhan masyarakat akan informasi yang cepat, akurat, dan mudah diakses. Dengan memanfaatkan teknologi React Native dan integrasi News API, aplikasi ini mampu memberikan pengalaman membaca berita yang responsif dan user-friendly. Fitur-fitur unggulan seperti pencarian cepat, dan antarmuka intuitif menjadi nilai tambah yang membedakan Berita.in dari kompetitor lainnya.
 Proses pengembangan aplikasi ini melibatkan riset mendalam, perancangan UI/UX yang fokus pada kenyamanan pengguna, serta pengujian menyeluruh untuk memastikan performa yang optimal. Meski menghadapi tantangan seperti keterbatasan perangkat, penyesuaian desain, dan pengembangan fitur berbasis AI, tim pengembang berhasil mengatasi hambatan tersebut dengan baik.
